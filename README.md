@@ -140,6 +140,3 @@ of 8.8 and blends action with mind-bending storytelling.
 
 ---
 
-## 📄 License
-
-Add your preferred license here (e.g., MIT).
